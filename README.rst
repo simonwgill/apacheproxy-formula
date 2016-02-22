@@ -1,5 +1,5 @@
 ================
-template-formula
+apacheproxy-formula
 ================
 
 A saltstack formula that is empty. It has dummy content to help with a quick
